@@ -1,0 +1,25 @@
+{
+  "name": "@tanuj_sahu_ts/winston-wrapper",
+  "version": "1.0.6",
+  "description": "A wrapper for the Winston logging library using ES6 syntax",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon src/index.js"
+  },
+  "keywords": ["winston", "logging", "logger", "es6"],
+  "author": "Your Name tanujsahu.dotsquares@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
